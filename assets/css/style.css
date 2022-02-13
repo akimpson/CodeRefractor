@@ -1,7 +1,13 @@
 * {
     box-sizing: border-box;
     padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
     margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
 }
 
 body {
@@ -56,7 +62,7 @@ p {
     font-size: 16px;
 }
 
-hero {
+.hero {
     height: 200px;
     width: 75%;
     margin-bottom: auto;
@@ -68,12 +74,12 @@ hero {
     background-position: center;
 }
 
-float-left {
+.float-left {
     float: left;
     margin-right: 20px;
 }
 
-float-right {
+.float-right {
     float: right;
     margin-left: 20px;
 }
