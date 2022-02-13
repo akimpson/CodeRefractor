@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    padding: 10px;
+    padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
@@ -17,7 +17,7 @@ header {
 
 header h1 {
     display: inline-block;
-    font-size: 48px;
+    font-size: 50px;
 }
 
 
@@ -26,8 +26,8 @@ header h1 .seo {
 }
 
 header nav {
-    padding-top: 5px;
-    margin-right: 5px;
+    padding-top: 10px;
+    margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
@@ -35,13 +35,13 @@ header nav {
 
 header nav ul {
     list-style-type: none;
-    margin-left: 5px;
-    margin-bottom: 0px;
+    margin-left: 20px;
+    margin-bottom: 20px;
 }
 
 header nav ul li {
     display: inline-block;
-    margin-left: 5px;
+    margin-left: 50px;
     margin-bottom: 0px
 }
 
@@ -59,10 +59,10 @@ p {
 .hero {
     height: 1200px;
     width: 100%;
-    margin-bottom: 15px;
-    margin-left: 10px;
-    margin-right:10px;
-    margin-top: 10px;
+    margin-bottom: 25px;
+    margin-left: 20px;
+    margin-right:100px;
+    margin-top: 20px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
@@ -75,23 +75,23 @@ p {
 
 .float-right {
     float: right;
-    margin-left: 25px;
+    margin-left: 20px;
 }
 
 main {
     width: 75%;
     display: inline-block;
-    padding-left: 40px;
+    padding-left: 20px;
     margin-bottom: 40px;
     border-bottom: #d4dee2; 
 
 }
 
 aside {
-    padding: 15px;
-    margin-right: 10px;
-    margin-top: 10px;
-    border-top: 10px;
+    padding: 35px;
+    margin-right: 50px;
+    margin-top: 20px;
+    border-top: 20px;
     clear: both;
     float: right;
     width: 20%;
@@ -101,34 +101,34 @@ aside {
 }
 
 .benefit {
-    margin-bottom: 22px;
+    margin-bottom: 32px;
     color: #ffffff;
 }
 
 .benefit h3 {
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     text-align: center;
 }
 
 .benefit img {
     display: block;
     margin: 10px auto;
-    max-width: 10px;
+    max-width: 50px;
 }
 
 
 .middle-section {
     margin-bottom: 20px;
     margin-top: 20px;
-    padding: 50px;
-    height: 200px;
+    padding: 40px;
+    height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
 
 .middle-section img {
-    max-height: 100px;
+    max-height: 200px;
 }
 
 .middle-section h2 {
@@ -143,9 +143,5 @@ footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
     color: #2589bd 
-}
-
-.footer h2 {
-    font-size: 20px;
-    color:#3589b4 
-}
+    margin-bottom: 20px;
+    font-size: 10px;}
