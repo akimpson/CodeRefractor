@@ -1,13 +1,7 @@
 * {
     box-sizing: border-box;
     padding: 0;
-    padding-top: 0px;
-    padding-right: 0px;
-    padding-bottom: 0px;
-    padding-left: 0px;
     margin: 0;
-    margin-top: 0px;
-    margin-right: 0px;
 }
 
 body {
@@ -62,7 +56,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+hero {
     height: 200px;
     width: 75%;
     margin-bottom: auto;
@@ -123,7 +117,7 @@ aside {
 }
 
 
-.middle-section {
+.middle-section { 
     margin-bottom: 20px;
     margin-top: 20px;
     padding: 40px;
@@ -137,6 +131,11 @@ aside {
     max-height: 200px;
 }
 
+.middle-section h2{
+    max-height: 200px;
+}
+
+
 .middle-section h2 {
     margin-bottom: 20px;
     font-size: 30px 
@@ -148,7 +147,7 @@ footer {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-    color: #2589bd 
     margin-bottom: 20px;
     font-size: 10px;
+    color: #2589bd 
 }
