@@ -131,16 +131,10 @@ aside {
     max-height: 200px;
 }
 
-.middle-section h2{
-    max-height: 200px;
-}
-
-
 .middle-section h2 {
     margin-bottom: 20px;
-    font-size: 30px 
+    font-size: 30px;
 }
-
 
 footer {
     padding: 30px;
