@@ -10,6 +10,6 @@
 # Screenshot
 
 [Horiseon webpage navigation links / 4 people looking down](./assets/images/Horiseon%20Screenshot.png)
- 
 
+This application is published at (https://akimpson.github.io/CodeRefractor/). More of my work can be found at (https://github.com/akimpson)
 
