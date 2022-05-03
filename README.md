@@ -4,7 +4,7 @@
 
 - Comments were added to the style.css file and the coded was consolidated and nested properly
 - Alt text was added to the images in the index.html file
-- Replaced the div tags and updated (header, footer)
+- Replaced the div tags and updated (head, body, footer)
 - Fixed the broken navigation links to link to their corresponding elements
 
 # Screenshot
