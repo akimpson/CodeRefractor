@@ -9,7 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Add Header */
+/* Add Header Styles */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -52,7 +52,7 @@ p {
     font-size: 16px;
 }
 
-/* hero / image */
+/* Hero / Image Style */
 .hero {
     height: 800px;
     width: 100%;
@@ -78,7 +78,7 @@ p {
     margin-left: 20px;
 }
 
-/* benefits */
+/* Aside Bar Style begins / benefits */
 .benefits {
     margin-right: 32px;
     padding: 20px;
@@ -138,7 +138,7 @@ p {
     max-width: 150px;
 }
 
-/* hero content images */
+/* Content Scetion Style / images */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -193,7 +193,7 @@ p {
     font-size: 36px;
 }
 
-/* Footer */
+/* Footer Style Begins */
 .footer {
     padding: 30px;
     clear: both;
